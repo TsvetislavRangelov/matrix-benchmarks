@@ -38,7 +38,7 @@ int main() {
 
     printf("Finished execution with C. \n");
 
-    printf("Multiplication took %f seconds to execute. \n", time_taken); 
+    printf("Multiplication took %f seconds to execute. \n", time_taken);
 
 
     return 0;
